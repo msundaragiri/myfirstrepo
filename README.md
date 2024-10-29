@@ -1,4 +1,4 @@
 # myfirstrepo
 Relearn GIT
-AUTHOR - MATTAIAH (The great)
+AUTHOR - MATTAIAH (Brother of Sambaiah)
 
