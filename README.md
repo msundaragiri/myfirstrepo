@@ -1,3 +1,4 @@
 # myfirstrepo
 Relearn GIT
-AUTHOR - MATTAIAH
+AUTHOR - MATTAIAH (The great)
+
